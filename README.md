@@ -26,6 +26,7 @@ Abaixo, seguem links bem bacanas, sobre tópicos mencionados durante o desafio:
 
 * [Referência da Api utilizada nesse desafio](https://cdn.jsdelivr.net/)
 * [Site para conversao do json](https://www.jsonschema2pojo.org/)
+* [Referência do video-aula](https://www.youtube.com/watch?v=U3Nmw0_BMVs)
 * [Referência do Android, para download](https://developer.android.com/studio?gclsrc=aw.ds&gclid=CjwKCAjw3cSSBhBGEiwAVII0Z6c5VlwQmwxm9xTkx3n31Yoks0qt-s_610V5poFjtrHzxgatqIIxeRoC2usQAvD_BwE)
 * [Site oficial do Android](https://developer.android.com/)
 * [Artigos - Retrofit](https://medium.com/@alifyzfpires/consumindo-api-rest-com-retrofit-kotlin-no-android-abba52820cc)
